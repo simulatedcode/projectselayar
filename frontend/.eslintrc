@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "standard"
+  ],
+  "parser": "vue-eslint-parser",
+  "parserOptions": {
+    "ecmaVersion": "latest"
+  }
+}
